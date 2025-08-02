@@ -67,7 +67,7 @@ As a Fellow in the [Break Through Tech AI Program](https://breakthroughtech.org/
 
 ### 🔍 Assignment Highlight: Define and Solve an ML Problem
 
-📄 [`DefineAndSolveMLProblem.ipynb`](/My-Cornell-Portfolio/labs/DefineAndSolveMLProblem.ipynb)
+📄 [`DefineAndSolveMLProblem.ipynb`](labs/DefineAndSolveMLProblem.ipynb)
 
 In this notebook, I:
 - Identified a real-world problem suitable for a machine learning approach  
