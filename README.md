@@ -55,11 +55,29 @@
 
 ## 📌 Featured Projects
 
-🔗 **[fall-ai-studio-poetry-nlp](https://github.com/FabianFig/fall-ai-studio-poetry-nlp)**  
-Analyzing classical Arabic poetry using natural language processing and machine learning techniques.  
+🔗 **[Arabic Poetry Analyser]**  
+Analysing classical Arabic poetry using natural language processing and machine learning techniques.  
 Includes NER, sentiment analysis, and plans for a full-stack demo.
 
 ---
+
+## 🎓 Break Through Tech AI Fellowship (Fall 2025)
+
+As a Fellow in the [Break Through Tech AI Program](https://breakthroughtech.org/programs/ai/), I’m gaining experience applying machine learning to real-world, socially relevant problems.
+
+### 🔍 Assignment Highlight: Define and Solve an ML Problem
+
+📄 [`DefineAndSolveMLProblem.ipynb`](./labs/DefineAndSolveMLProblem.ipynb)
+
+In this notebook, I:
+- Identified a real-world problem suitable for a machine learning approach  
+- Defined the ML objective, use case, and success criteria  
+- Outlined key assumptions, data needs, and ethical considerations
+
+🧠 **Skills used:** ML scoping, data thinking, ethical ML framing  
+🔧 **Tools:** Python, Pandas, Markdown, Jupyter Notebooks
+
+More assignments, case studies, and a final project will be added as the program progresses.
 
 ## 📊 GitHub Stats
 
