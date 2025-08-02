@@ -59,12 +59,6 @@
 Analyzing classical Arabic poetry using natural language processing and machine learning techniques.  
 Includes NER, sentiment analysis, and plans for a full-stack demo.
 
-🔗 **[svm-sentiment-analysis-customer-feedback](https://github.com/FabianFig/svm-sentiment-analysis-customer-feedback)**  
-Built an SVM model to classify customer sentiment. Focused on data preprocessing, evaluation metrics, and model improvement.
-
-🔗 **[linear-regression-housing-prices](https://github.com/FabianFig/linear-regression-housing-prices)**  
-Used regression models to predict housing prices based on cleaned and visualized feature sets.
-
 ---
 
 ## 📊 GitHub Stats
