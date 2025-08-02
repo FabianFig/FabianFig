@@ -55,7 +55,7 @@
 
 ## 📌 Featured Projects
 
-🔗 **[Arabic Poetry Analyser]**  
+🔗 **[Arabic Poetry Analysis]**  
 Analysing classical Arabic poetry using natural language processing and machine learning techniques.  
 Includes NER, sentiment analysis, and plans for a full-stack demo.
 
@@ -67,7 +67,7 @@ As a Fellow in the [Break Through Tech AI Program](https://breakthroughtech.org/
 
 ### 🔍 Assignment Highlight: Define and Solve an ML Problem
 
-📄 [`DefineAndSolveMLProblem.ipynb`](labs/DefineAndSolveMLProblem.ipynb)
+📄 [`DefineAndSolveMLProblem.ipynb`](https://github.com/FabianFig/My-Cornell-Portfolio/blob/main/labs/DefineAndSolveMLProblem.ipynb) 
 
 In this notebook, I:
 - Identified a real-world problem suitable for a machine learning approach  
@@ -76,8 +76,6 @@ In this notebook, I:
 
 🧠 **Skills used:** ML scoping, data thinking, ethical ML framing  
 🔧 **Tools:** Python, Pandas, Markdown, Jupyter Notebooks
-
-More assignments, case studies, and a final project will be added as the program progresses.
 
 ## 📊 GitHub Stats
 
