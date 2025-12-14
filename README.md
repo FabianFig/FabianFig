@@ -23,6 +23,19 @@ An ongoing machine learning project analysing sentiment, named entity recognitio
 
 ## Highlighted Work
 
+**Chrono - Productivity Timer & Task Tracker**
+[GitHub Repository](https://github.com/UTSA-CS-3443/Chrono)
+
+Chrono is a JavaFX application designed to help users manage tasks, run countdown timers, and customise themes. Developed in IntelliJ using JavaFX, SceneBuilder, and Maven for dependency management, the app emphasises functionality and user-friendly interface design.
+
+I contributed to UI design, prototyping, implementation, and testing. The project includes unit testing with JUnit 5 and supports theme switching and persistent task storage.
+
+Prototype & design assets: [Figma File](https://www.figma.com/design/5vsupr5xMDlI5zN123XdFc/Chrono?node-id=0-1&t=6UpPxw3BZN2QKJ0g-1)
+
+Technologies: Java, JavaFX, SceneBuilder, Maven, JUnit, FXML
+
+---
+
 **ALERG’Z -- Allergy-Safe Food Recommendation App**  
 [GitHub Repository](https://github.com/SawyerAlston/ALERGZ)
 
